@@ -105,6 +105,45 @@ Para conocer:
 
 11. Acceder
 
+# Colecciones incorporadas
+
+1. Listas
+
+    - Proposito General
+
+    - Tamaño dinámico
+
+    - Ordenable
+
+2. Tuplas
+
+    - Inmutables
+
+    - Utiles para almacenar datos constantes
+
+    - Más rápidas que las listas
+
+    - Son secuenciales
+
+
+3.  Conjuntos (sets)
+
+    - Datos no duplicados
+
+    - De acceso rápido
+
+    - Aceptan operaciones lógicas
+
+    - Son desordenados
+
+4. Diccionarios
+
+    - Pares llave/valor
+
+    - Arrays asociativos
+
+    - Son desordenados
+
 # Estructura de datos aprendidas
 
 - Array
