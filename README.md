@@ -1,3 +1,7 @@
+# Notion
+
+[Notion](https://aspiring-cuticle-a1e.notion.site/Estructura-de-datos-lineales-884098fb1d104eaab7feb29f2dbf2c94)
+
 # Estructuras por defecto en python
 
 - Listas
@@ -144,14 +148,5 @@ Para conocer:
 
     - Son desordenados
 
-# Estructura de datos aprendidas
 
-- Array
-
-- ArrayList
-
-- LinkedList
-
-- Stack
-
-- Queue
+# LinkedList
